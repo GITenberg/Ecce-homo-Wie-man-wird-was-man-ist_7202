@@ -1,4 +1,8 @@
 _repo: Ecce-homo-Wie-man-wird-was-man-ist_7202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -54,6 +58,8 @@ description: "Ecce Homo: How One Becomes What One Is (German: Ecce homo: Wie man
   \ corroborating Christianity's decadence and his ideas as to uncovering Christian\
   \ morality.\nHe signs the book \"Dionysus versus the Crucified.\"\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7202#Ecce-homo-Wie-man-wird-was-man-ist
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
